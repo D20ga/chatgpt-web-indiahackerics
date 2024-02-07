@@ -37,6 +37,12 @@ REACT_APP_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 ```bash
 npm start
 ```
+- any error fix 
+
+```bash
+npm audit fix --force
+```
+
 
 ## How to get API key?
 
@@ -45,5 +51,6 @@ npm start
 You must first register on the [openai website](https://beta.openai.com/), then click the profile menu and select `View API keys`
 
 
-COPYRIGHT 2011-2024 CyberEthicsHub
+
+COPYRIGHT 2011-2024 CyberEthicsHub ------INDIAHACKER X OPENAI 
 
