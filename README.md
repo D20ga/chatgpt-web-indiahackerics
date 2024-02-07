@@ -44,3 +44,6 @@ npm start
 
 You must first register on the [openai website](https://beta.openai.com/), then click the profile menu and select `View API keys`
 
+
+COPYRIGHT 2011-2024 CyberEthicsHub
+
