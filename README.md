@@ -9,7 +9,7 @@
 - Clone this repository
 
 ```bash
-git clone https://github.com/D20ga/chatgpt-web-indiahackerics.git
+git clone https://github.com/indiahackercyber/chatgpt-web-indiahackerics.git
 ```
 
 - Install dependency library
