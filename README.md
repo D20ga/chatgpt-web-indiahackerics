@@ -9,7 +9,7 @@
 - Clone this repository
 
 ```bash
-git clone https://github.com/harshitethic/Openai-clone/
+git clone https://github.com/D20ga/chatgpt-web-indiahackerics.git
 ```
 
 - Install dependency library
