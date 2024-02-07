@@ -11,6 +11,10 @@
 ```bash
 git clone https://github.com/indiahackercyber/chatgpt-web-indiahackerics.git
 ```
+- go to file
+  '''bash
+  cd chatgpt-web-indiahackerics
+'''
 
 - Install dependency library
 
