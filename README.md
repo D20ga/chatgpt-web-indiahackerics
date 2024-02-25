@@ -52,5 +52,5 @@ You must first register on the [openai website](https://beta.openai.com/), then 
 
 
 
-COPYRIGHT 2011-2024 CyberEthicsHub ------INDIAHACKER X OPENAI 
+COPYRIGHT 2011-2024 CyberEthicsHub ------INDIAHACKER X Cyber Ehics Hub X openai
 
